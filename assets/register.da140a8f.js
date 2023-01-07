@@ -1,0 +1,1 @@
+import{_ as s,L as n,f as c,r as e,o as a,c as p,e as o}from"./index.06fb8460.js";const _=n({setup(){},components:{footerComp:c}}),m={class:"register"};function f(i,d,u,l,v,$){const t=e("router-view"),r=e("footer-comp");return a(),p("div",m,[o(t),o(r)])}var C=s(_,[["render",f]]);export{C as default};
